@@ -1,0 +1,36 @@
+# File type detection
+python-magic
+
+# PDF processing
+pdfplumber
+camelot-py
+PyMuPDF
+
+# PPTX processing
+python-pptx
+
+# DOCX processing
+python-docx
+pypandoc
+
+# Image processing
+pytesseract
+opencv-python
+layoutparser
+
+# Markdown formatting
+markdownify
+tabulate
+pandas
+
+# OCR & ML support
+torch
+transformers
+
+# Optional: Table structure detection from images
+img2table
+
+# General utilities
+numpy
+
+streamlit
